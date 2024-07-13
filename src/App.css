@@ -1,0 +1,26 @@
+
+  .main{
+      padding: 50px 0px;
+     
+  }
+  .status{
+      color: blue;
+      font-size: large;
+      margin: 50px 0px;
+  }
+  
+ 
+  .square{
+    margin: 20px;
+    padding: 20px;
+  }
+  .count{
+    margin: 8px;
+  }
+ .step{
+  padding: 8px;
+ }
+ .game{
+  background-image: url(https://wallpapercave.com/wp/wp8984736.jpg);
+ }
+ 
